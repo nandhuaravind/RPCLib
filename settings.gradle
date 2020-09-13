@@ -1,0 +1,3 @@
+include ':RpcLib'
+include ':app'
+rootProject.name = "RPC Request"
